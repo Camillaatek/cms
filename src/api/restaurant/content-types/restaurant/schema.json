@@ -26,14 +26,8 @@
       "target": "api::category.category",
       "inversedBy": "restaurants"
     },
-    "image": {
-      "allowedTypes": [
-        "images",
-        "files",
-        "videos"
-      ],
-      "type": "media",
-      "multiple": false
+    "image_url": {
+      "type": "string"
     }
   }
 }
