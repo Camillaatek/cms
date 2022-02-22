@@ -28,6 +28,9 @@
     },
     "image_url": {
       "type": "string"
+    },
+    "cost": {
+      "type": "integer"
     }
   }
 }
