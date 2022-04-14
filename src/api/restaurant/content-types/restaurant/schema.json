@@ -31,6 +31,10 @@
     },
     "cost": {
       "type": "integer"
+    },
+    "location": {
+      "type": "string",
+      "required": false
     }
   }
 }
