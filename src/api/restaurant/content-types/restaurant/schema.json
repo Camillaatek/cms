@@ -35,6 +35,21 @@
     "location": {
       "type": "string",
       "required": false
+    },
+    "WIFI": {
+      "type": "boolean"
+    },
+    "breakfast": {
+      "type": "boolean"
+    },
+    "bedroom": {
+      "type": "integer"
+    },
+    "rating": {
+      "type": "decimal"
+    },
+    "kitchen": {
+      "type": "string"
     }
   }
 }
